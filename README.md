@@ -51,15 +51,34 @@
 - **کنترل نسخه**: Git
 - **ارتباط تیمی**: Telegram
 
----
-## 👥 اعضای تیم
+---## 👥 اعضای تیم
 
-| عضو | نقش | مسئولیت‌ها |
-|-----|------|------------|
-| **آرین نظری** | مسئول مستندات و تضمین کیفیت | مستندسازی نیازمندی‌ها و موارد کاربرد؛ طراحی سناریوهای آزمون بر اساس موارد کاربرد، پیگیری اشکالات و تأیید کیفیت نسخه‌های تحویلی |
-| **کوشا کاظمی** | توسعه‌دهنده بک‌اند | پیاده‌سازی منطق سمت سرور با Django، طراحی مدل‌های داده، مدیریت پایگاه داده |
-| **سینا بتی** | توسعه‌دهنده فرانت‌اند | طراحی و پیاده‌سازی رابط کاربری، قالب‌های HTML/CSS، تعامل با APIها ||
-
+<table dir="rtl" style="width: 100%; text-align: right; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">عضو</th>
+      <th style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">نقش</th>
+      <th style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">مسئولیت‌ها</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>آرین نظری</strong></td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">مسئول مستندات و تضمین کیفیت</td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">تدوین پیشنهاد تفصیلی، مستندسازی نیازمندی‌ها و موارد کاربرد؛ طراحی سناریوهای آزمون بر اساس موارد کاربرد، اجرای آزمون‌های کارکردی، ثبت و پیگیری اشکالات و تأیید کیفیت نسخه‌های تحویلی</td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>سینا بتی</strong></td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">توسعه‌دهنده بک‌اند</td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">پیاده‌سازی منطق سمت سرور با Django، طراحی مدل‌های داده، مدیریت پایگاه داده</td>
+    </tr>
+    <tr>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>کوشا کاظمی</strong></td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">توسعه‌دهنده فرانت‌اند</td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">طراحی و پیاده‌سازی رابط کاربری، قالب‌های HTML/CSS، تعامل با APIها</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 📂 ساختار پروژه
