@@ -65,15 +65,15 @@
     <tr>
       <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>آرین نظری</strong></td>
       <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">مسئول مستندات و تضمین کیفیت</td>
-      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">تدوین پیشنهاد تفصیلی، مستندسازی نیازمندی‌ها و موارد کاربرد؛ طراحی سناریوهای آزمون بر اساس موارد کاربرد، اجرای آزمون‌های کارکردی، ثبت و پیگیری اشکالات و تأیید کیفیت نسخه‌های تحویلی</td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"> مستندسازی نیازمندی‌ها و موارد کاربرد؛ اجرای آزمون‌های کارکردی، ثبت و پیگیری اشکالات و تأیید کیفیت نسخه‌های تحویلی</td>
     </tr>
     <tr>
-      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>سینا بتی</strong></td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>کوشا کاضمی</strong></td>
       <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">توسعه‌دهنده بک‌اند</td>
       <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">پیاده‌سازی منطق سمت سرور با Django، طراحی مدل‌های داده، مدیریت پایگاه داده</td>
     </tr>
     <tr>
-      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>کوشا کاظمی</strong></td>
+      <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;"><strong>سینا بتی</strong></td>
       <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">توسعه‌دهنده فرانت‌اند</td>
       <td style="text-align: right; padding: 8px; border: 1px solid #d0d7de;">طراحی و پیاده‌سازی رابط کاربری، قالب‌های HTML/CSS، تعامل با APIها</td>
     </tr>
